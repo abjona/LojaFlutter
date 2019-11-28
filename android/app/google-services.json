@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "34836158714",
+    "firebase_url": "https://lojaflutter-1b8b8.firebaseio.com",
+    "project_id": "lojaflutter-1b8b8",
+    "storage_bucket": "lojaflutter-1b8b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34836158714:android:1c1959efcfdfa2a5",
+        "android_client_info": {
+          "package_name": "br.com.borges.lojavirtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34836158714-cf8cnahv5b0u6b8qu1tbkuq9hv6lnv28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKVDtl0wraRx_kKAOls4MDskQOJkCrB_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34836158714-cf8cnahv5b0u6b8qu1tbkuq9hv6lnv28.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
